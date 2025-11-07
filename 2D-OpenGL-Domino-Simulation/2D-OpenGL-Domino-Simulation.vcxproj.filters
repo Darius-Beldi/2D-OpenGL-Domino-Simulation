@@ -1467,17 +1467,17 @@
     <None Include="include\glm\gtx\wrap.inl">
       <Filter>Header Files\template-built-ins\glm\gtx</Filter>
     </None>
-    <None Include="example.vert">
-      <Filter>Resource Files\shaders\example</Filter>
-    </None>
-    <None Include="example.frag">
-      <Filter>Resource Files\shaders\example</Filter>
-    </None>
     <None Include="lib\x64\GL\DLLs\freeglut.dll">
       <Filter>Resource Files\template-built-ins\DLLs\64b</Filter>
     </None>
     <None Include="lib\x64\GL\DLLs\glew32.dll">
       <Filter>Resource Files\template-built-ins\DLLs\64b</Filter>
+    </None>
+    <None Include="Shader.frag">
+      <Filter>Resource Files\shaders\example</Filter>
+    </None>
+    <None Include="Shader.vert">
+      <Filter>Resource Files\shaders\example</Filter>
     </None>
   </ItemGroup>
 </Project>
