@@ -1479,5 +1479,14 @@
     <None Include="Shader.vert">
       <Filter>Resource Files\shaders\example</Filter>
     </None>
+    <None Include="glsl Shader.frag" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="assets\domino.png">
+      <Filter>Resource Files\textures</Filter>
+    </Image>
+    <Image Include="assets\table.png">
+      <Filter>Resource Files\textures</Filter>
+    </Image>
   </ItemGroup>
 </Project>
